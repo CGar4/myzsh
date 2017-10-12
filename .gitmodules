@@ -1,0 +1,9 @@
+[submodule "zsh-git-prompt"]
+	path = zsh-git-prompt
+	url = http://github.com/CGar4/zsh-git-prompt.git
+[submodule "zsh-autosuggestions"]
+	path = zsh-autosuggestions
+	url = http://github.com/CGar4/zsh-autosuggestions.git
+[submodule "zsh-syntax-highlighting"]
+	path = zsh-syntax-highlighting
+	url = http://github.com/CGar4/zsh-syntax-highlighting
